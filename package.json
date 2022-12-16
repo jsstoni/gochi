@@ -1,0 +1,21 @@
+{
+  "name": "gochi",
+  "description": "Servir vue con express.js",
+  "version": "1.0.0",
+  "author": "jsstoni <jsstoniha@gmail.com>",
+  "license": "MIT",
+  "repository": "jsstoni/gochi",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "dist/"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  }
+}
